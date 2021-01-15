@@ -1,0 +1,4 @@
+HTML = Hyper Text Markup Language 
+CSS = Cascading Style Sheet
+JS = Javascript 
+% = shotokora 
